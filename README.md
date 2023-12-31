@@ -1,1 +1,3 @@
-# iris_classification
+# Iris Classification
+
+A simple web app to test iris classification
